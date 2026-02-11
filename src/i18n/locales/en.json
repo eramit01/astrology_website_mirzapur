@@ -1,0 +1,437 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "media": "Media & Articles",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "slide1": {
+      "headline": "Welcome to Vedic Astrology",
+      "subheadline": "Pandit Gulabchand has 30+ Years of Expert Guidance in Vedic Astrology, Vastu & Gemstones"
+    },
+    "slide2": {
+      "headline": "Expert Astrology Consultation Services",
+      "subheadline": "Accurate Predictions for Relationships, Career & Personal Growth"
+    },
+    "slide3": {
+      "headline": "30+ Years of Experience In Astrology",
+      "subheadline": "Famous Astrologer & Spiritual Healer Combining Vedic Astrology, Numerology & Palmistry for Accurate Predictions"
+    },
+    "services": {
+      "horoscope": "Horoscope Analysis",
+      "finance": "Finance Astrology",
+      "marriage": "Marriage Astrology"
+    },
+    "cta": {
+      "bookNow": "Book Now",
+      "whatsapp": "WhatsApp",
+      "callNow": "Call Now",
+      "learnMore": "Learn More"
+    }
+  },
+  "home": {
+    "about": {
+      "title": "About Us",
+      "description1": "With 30+ years of experience, Pandit Gulabchand is a dedicated and renowned astrologer with an unwavering passion for helping people find clarity, balance, and purpose through the ancient wisdom of Vedic astrology. His deep commitment to guiding individuals through life's challenges has established him as a trusted spiritual advisor in Mirzapur-cum-Vindhyachal, Uttar Pradesh and surrounding areas.",
+      "description2": "With extensive expertise in analyzing Kundli charts, Pandit Gulabchand is highly proficient in Astrology, Vastu Shastra, and Gemstone consultancy. Through years of dedicated practice, he has mastered the art of understanding and guiding individuals through life's most pressing questions, offering profound insights that illuminate paths forward and empower clients to make informed decisions about their future. Located in Mirzapur-cum-Vindhyachal, Uttar Pradesh, he serves clients from across Mirzapur, Varanasi, Allahabad, and nearby regions with both in-person and online consultations.",
+      "experience": "Years Experience",
+      "clients": "Happy Clients",
+      "rating": "Client Rating",
+      "readFullStory": "Read Full Story"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive astrology services in Mirzapur, Uttar Pradesh tailored to your needs. Expert consultations for Kundali reading, Vastu Shastra, marriage matching, career guidance, and more.",
+      "viewMore": "View More Services",
+      "viewAll": "View All Services"
+    },
+    "location": {
+      "title": "Visit Us in Mirzapur, Uttar Pradesh",
+      "description": "We are conveniently located in Mirzapur-cum-Vindhyachal, Uttar Pradesh. Easily accessible from all parts of Mirzapur, Varanasi, Allahabad, and nearby areas. Both in-person and online consultations are available.",
+      "address": "Our Location",
+      "contact": "Contact",
+      "servingAreas": "Serving Areas",
+      "servingAreasText": "Mirzapur, Vindhyachal, Varanasi, Allahabad, Chandauli, Bhadohi, Sonbhadra, and nearby regions in Uttar Pradesh"
+    },
+    "cta": {
+      "title": "Ready to Discover Your Path?",
+      "subtitle": "Book your consultation today and get personalized guidance for your life's journey.",
+      "bookNow": "Book Consultation Now"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Expert Astrology Services in Mirzapur",
+    "searchPlaceholder": "Search services...",
+    "allCategories": "All Categories",
+    "bookConsultation": "Book Consultation",
+    "learnMore": "Learn More",
+    "categories": {
+      "all": "All Categories",
+      "astrology": "Astrology",
+      "vastu": "Vastu",
+      "remedies": "Remedies",
+      "packages": "Packages"
+    },
+    "results": {
+      "showing": "Showing",
+      "service": "service",
+      "services": "services",
+      "for": "for",
+      "noResults": "No services found",
+      "tryDifferent": "Try a different search term or category"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "30+ Years of Expert Astrology Consultation"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact Us",
+    "followUs": "Follow Us",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Office Hours",
+    "weekdays": "Mon - Sat:",
+    "weekdaysTime": "10:00 AM - 8:00 PM",
+    "sunday": "Sunday:",
+    "sundayTime": "By Appointment",
+    "home": "Home",
+    "articles": "Articles",
+    "media": "Media",
+    "bookNow": "Book Now",
+    "copyright": "All rights reserved.",
+    "description": "Discover your path through ancient wisdom and modern guidance. Your spiritual journey is our priority."
+  },
+  "service": {
+    "horoscopeAnalysis": {
+      "name": "Horoscope Analysis",
+      "description": "Complete birth chart analysis with detailed predictions about your life, career, relationships, and health based on Vedic astrology.",
+      "benefit1": "Detailed birth chart interpretation",
+      "benefit2": "Life predictions and guidance",
+      "benefit3": "Planetary influence analysis",
+      "benefit4": "Personalized remedies"
+    },
+    "marriageCompatibility": {
+      "name": "Marriage And Love Compatibility",
+      "description": "Comprehensive compatibility analysis for marriage and relationships using Vedic astrology. Includes gun milan and dosha analysis.",
+      "benefit1": "Compatibility analysis for couples",
+      "benefit2": "Gun milan and dosha checking",
+      "benefit3": "Marriage timing predictions",
+      "benefit4": "Relationship harmony guidance"
+    },
+    "careerAstrology": {
+      "name": "Career & Job Astrology",
+      "description": "Identify your ideal career path, timing for job changes, promotions, and business ventures based on your birth chart analysis.",
+      "benefit1": "Find your ideal career direction",
+      "benefit2": "Best timing for job changes",
+      "benefit3": "Promotion opportunities",
+      "benefit4": "Business venture guidance"
+    },
+    "financeAstrology": {
+      "name": "Finance & Business Astrology",
+      "description": "Get expert guidance on your financial prospects, business opportunities, and investment timing through detailed astrological analysis.",
+      "benefit1": "Identify best financial opportunities",
+      "benefit2": "Plan investments at auspicious times",
+      "benefit3": "Understand wealth patterns in your chart",
+      "benefit4": "Business growth predictions"
+    },
+    "healthAstrology": {
+      "name": "Health Medical Astrology",
+      "description": "Understand your health patterns, potential health issues, and preventive measures through medical astrology and planetary influences.",
+      "benefit1": "Health pattern analysis",
+      "benefit2": "Preventive health guidance",
+      "benefit3": "Medical timing for treatments",
+      "benefit4": "Wellness and healing remedies"
+    },
+    "kundliAnalysis": {
+      "name": "Kundli Analysis",
+      "description": "Complete birth chart analysis for newborns and children. Understand their future, education, health, and personality traits.",
+      "benefit1": "Birth chart reading",
+      "benefit2": "Education and career guidance",
+      "benefit3": "Health and wellness predictions",
+      "benefit4": "Personality and traits analysis"
+    },
+    "vastuConsultation": {
+      "name": "Vastu Shastra Consultation",
+      "description": "Expert guidance for home and office layout to enhance positive energy, prosperity, and harmony in your living and working spaces.",
+      "benefit1": "Optimize energy flow in your space",
+      "benefit2": "Enhance prosperity and success",
+      "benefit3": "Improve health and relationships",
+      "benefit4": "Remedies for Vastu doshas"
+    },
+    "kundliMatching": {
+      "name": "Kundli Matching",
+      "description": "Professional horoscope matching for marriage compatibility. Detailed analysis of gun milan, doshas, and planetary compatibility.",
+      "benefit1": "Comprehensive gun milan analysis",
+      "benefit2": "Dosha checking and remedies",
+      "benefit3": "Planetary compatibility study",
+      "benefit4": "Marriage timing guidance"
+    },
+    "gemstoneRecommendation": {
+      "name": "Gemstone Recommendation",
+      "description": "Expert recommendations for gemstones based on your birth chart to enhance planetary influences and bring positive changes.",
+      "benefit1": "Personalized gemstone suggestions",
+      "benefit2": "Planetary remedies and solutions",
+      "benefit3": "Mantras and rituals guidance",
+      "benefit4": "Enhance positive energy flow"
+    },
+    "kundaliReading": {
+      "name": "Kundali Reading",
+      "description": "Complete birth chart analysis with detailed predictions about your life, career, relationships, and health. Includes dasha periods and planetary influences.",
+      "benefit1": "Detailed birth chart interpretation",
+      "benefit2": "Life predictions and guidance",
+      "benefit3": "Planetary period analysis",
+      "benefit4": "Personalized remedies"
+    },
+    "matchmaking": {
+      "name": "Matchmaking",
+      "description": "Comprehensive compatibility analysis for marriage and relationships using Vedic astrology. Includes gun milan and dosha analysis.",
+      "benefit1": "Compatibility analysis for couples",
+      "benefit2": "Gun milan and dosha checking",
+      "benefit3": "Marriage timing predictions",
+      "benefit4": "Relationship harmony guidance"
+    },
+    "careerGuidance": {
+      "name": "Career Guidance",
+      "description": "Identify your ideal career path and timing for job changes, promotions, and business ventures based on your birth chart.",
+      "benefit1": "Find your ideal career direction",
+      "benefit2": "Best timing for job changes",
+      "benefit3": "Promotion opportunities",
+      "benefit4": "Business venture guidance"
+    },
+    "financialForecast": {
+      "name": "Financial Forecast",
+      "description": "Understand your financial prospects and best times for investments and major purchases. Wealth analysis and remedies.",
+      "benefit1": "Financial planning insights",
+      "benefit2": "Investment timing guidance",
+      "benefit3": "Wealth pattern analysis",
+      "benefit4": "Money management remedies"
+    },
+    "remedies": {
+      "name": "Remedies & Solutions",
+      "description": "Personalized remedies including mantras, gemstones, yantras, and rituals to overcome challenges and enhance positive energy.",
+      "benefit1": "Personalized remedy suggestions",
+      "benefit2": "Mantras and rituals guidance",
+      "benefit3": "Yantra recommendations",
+      "benefit4": "Positive energy enhancement"
+    },
+    "gemstoneSuggestion": {
+      "name": "Gemstone Suggestion",
+      "description": "Expert recommendations for gemstones based on your birth chart to enhance planetary influences and bring positive changes.",
+      "benefit1": "Personalized gemstone suggestions",
+      "benefit2": "Planetary enhancement",
+      "benefit3": "Quality guidance",
+      "benefit4": "Wearing instructions"
+    },
+    "numerologyConsultation": {
+      "name": "Numerology Consultation",
+      "description": "Numerology analysis based on your name and date of birth to understand your life path and destiny."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about our astrology services in Mirzapur, Uttar Pradesh",
+    "questions": {
+      "q1": "Who is the best astrologer in Mirzapur, Uttar Pradesh?",
+      "a1": "Pandit Gulabchand is the best astrologer in Mirzapur, Uttar Pradesh with over 30 years of experience in Vedic astrology, Kundali reading, Vastu Shastra, and Gemstone consultancy. Located in Mirzapur-cum-Vindhyachal, Uttar Pradesh.",
+      "q2": "What services does Pandit Gulabchand offer?",
+      "a2": "Pandit Gulabchand offers comprehensive astrology services including Kundali reading, horoscope analysis, marriage compatibility, career guidance, financial astrology, Vastu Shastra consultation, gemstone recommendations, and personalized remedies.",
+      "q3": "Where is the astrology consultation center located?",
+      "a3": "The consultation center is located at Brahma kumari Gate, Shuklaha Road, near Shiva Shakti Marriage Hall, Mirzapur-cum-Vindhyachal, Uttar Pradesh 231001. Both in-person and online consultations are available.",
+      "q4": "What are the consultation timings?",
+      "a4": "Consultation timings are Monday to Saturday, 9:00 AM to 8:00 PM IST. Sunday consultations are available by appointment.",
+      "q5": "How to book an astrology consultation?",
+      "a5": "You can book a consultation by calling +91 93236 00011, messaging on WhatsApp, or filling out the booking form on the website.",
+      "q6": "Does Pandit Gulabchand provide online consultations?",
+      "a6": "Yes, Pandit Gulabchand provides both in-person consultations at the Mirzapur center and online consultations via phone or video call for clients across India and abroad.",
+      "q7": "What is the experience of Pandit Gulabchand?",
+      "a7": "Pandit Gulabchand has over 30 years of experience in Vedic astrology, Kundali analysis, Vastu Shastra, and Gemstone consultancy. He has served more than 5000 satisfied clients.",
+      "q8": "What areas does Pandit Gulabchand serve?",
+      "a8": "Pandit Gulabchand serves clients in Mirzapur, Vindhyachal, Varanasi, Allahabad, Chandauli, Bhadohi, Sonbhadra, and nearby regions. Online consultations are available worldwide.",
+      "q9": "What is the cost of astrology consultation?",
+      "a9": "Consultation fees vary based on the type of service. Please contact us at +91 93236 00011 or WhatsApp for detailed pricing information.",
+      "q10": "How accurate are the astrology predictions?",
+      "a10": "With 30+ years of experience and expertise in Vedic astrology, Pandit Gulabchand provides highly accurate predictions and guidance. Thousands of satisfied clients have benefited from his consultations."
+    }
+  },
+  "book": {
+    "title": "Book Your Consultation",
+    "subtitle": "Fill out the form below or contact us directly via WhatsApp or phone. We are located in Mirzapur-cum-Vindhyachal, Uttar Pradesh. Both in-person and online consultations are available.",
+    "whatsappUs": "WhatsApp Us",
+    "callUs": "Call Us",
+    "whatToExpect": "What to Expect",
+    "expect1": "Confirmation within 24 hours via phone or WhatsApp",
+    "expect2": "Detailed consultation based on your birth details",
+    "expect3": "Personalized remedies and guidance",
+    "expect4": "Follow-up support available",
+    "businessHours": "Business Hours:",
+    "businessHoursTime": "Monday - Saturday, 9:00 AM - 8:00 PM IST",
+    "urgentConsultation": "For urgent consultations, please call or WhatsApp directly."
+  },
+  "bookingForm": {
+    "fullName": "Full Name *",
+    "email": "Email *",
+    "phoneNumber": "Phone Number *",
+    "service": "Service *",
+    "selectService": "Select a service",
+    "preferredDate": "Preferred Date *",
+    "preferredTime": "Preferred Time *",
+    "selectTime": "Select time",
+    "message": "Message (Optional)",
+    "submitting": "Submitting...",
+    "submitBooking": "Submit Booking Request",
+    "agreement": "By submitting, you agree to be contacted via phone or WhatsApp for confirmation.",
+    "success": "Booking request submitted successfully!",
+    "error": "Failed to submit booking. Please try again or contact us directly.",
+    "validation": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Invalid email",
+      "phoneRequired": "Phone number is required",
+      "phoneInvalid": "Invalid phone number",
+      "serviceRequired": "Please select a service",
+      "dateRequired": "Preferred date is required",
+      "timeRequired": "Preferred time is required"
+    }
+  },
+  "media": {
+    "videoInterviews": "Video Interviews",
+    "exclusiveConversations": "Exclusive Conversations",
+    "subtitle": "Watch insightful interviews covering astrology, Vastu Shastra, gemstones, and spiritual guidance.",
+    "videoInterview": "Video Interview",
+    "relatedContent": "Related Content",
+    "exploreMore": "Explore More Insights",
+    "relatedSubtitle": "In-depth articles on astrology, Vastu, and spiritual guidance.",
+    "readMore": "Read More",
+    "interviews": {
+      "interview1": {
+        "title": "Exclusive Interview with Pandit Gulabchand",
+        "description": "Insights on astrology, life purpose, and practical guidance from decades of practice."
+      },
+      "interview2": {
+        "title": "Astrology Consultation & Guidance",
+        "description": "Learn about the art of astrology and how it can transform your life."
+      },
+      "interview3": {
+        "title": "Vastu Shastra & Spiritual Wisdom",
+        "description": "Understanding Vastu principles and their impact on modern living."
+      },
+      "interview4": {
+        "title": "Gemstones & Remedies Discussion",
+        "description": "Exploring the power of gemstones and astrological remedies for life challenges."
+      }
+    }
+  },
+  "articles": {
+    "knowledgeHub": "Knowledge Hub",
+    "latestArticles": "Latest Articles",
+    "subtitle": "Explore insights, guides, and wisdom from Pandit Gulabchand on Vedic astrology, remedies, and life guidance",
+    "readArticle": "Read Article",
+    "noArticles": "No articles found in this category.",
+    "getStarted": "Get Started",
+    "needGuidance": "Need Personalized Guidance?",
+    "ctaSubtitle": "Book a consultation with Pandit Gulabchand for personalized astrology readings and guidance tailored to your unique birth chart.",
+    "bookConsultation": "Book Your Consultation",
+    "articleNotFound": "Article Not Found",
+    "articleNotFoundDesc": "The article you're looking for doesn't exist.",
+    "backToArticles": "Back to Articles",
+    "home": "Home",
+    "articles": "Articles",
+    "minRead": "min read",
+    "relatedArticles": "Related Articles",
+    "categories": {
+      "Kundli": "Kundli",
+      "Vastu": "Vastu",
+      "Astrology": "Astrology",
+      "Remedies": "Remedies",
+      "Gemstones": "Gemstones",
+      "Career": "Career",
+      "Marriage": "Marriage",
+      "Numerology": "Numerology",
+      "Muhurat": "Muhurat",
+      "Finance": "Finance",
+      "Health": "Health"
+    },
+    "how_to_read_kundli_beginners_guide": {
+      "title": "How to Read Your Kundli A Beginner's Guide",
+      "excerpt": "Learn the fundamentals of reading and interpreting your birth chart. Understand the significance of planets, houses, and their interactions in your Kundli.",
+      "content": "<p>Your Kundli, or birth chart, is a cosmic map that reveals the positions of planets at the exact moment of your birth. Understanding this celestial blueprint is the first step toward unlocking insights about your personality, destiny, and life path.</p><h2>Understanding the Basic Components</h2><p>A Kundli consists of 12 houses, each representing different aspects of your life—from self-identity (1st house) to career (10th house) and relationships (7th house). The planets, including the Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Rahu, and Ketu, occupy these houses and influence various life areas.</p><h2>Reading Your Planetary Positions</h2><p>Each planet governs specific traits and life areas. For example, the Sun represents your core identity and ego, while Venus influences love and relationships. The placement of these planets in different houses determines their impact on your life.</p><h2>Interpreting Planetary Aspects</h2><p>Planetary aspects occur when planets form specific angular relationships with each other. These aspects can create harmonious or challenging influences, affecting your relationships, career, health, and overall well-being.</p><h2>Getting Started</h2><p>To begin reading your Kundli, start with your Ascendant (Lagna) and examine the planets in each house. Note the signs they occupy and their relationships with other planets. Consulting with an experienced astrologer like Pandit Gulabchand can help you understand these complex interactions and their meanings for your life.</p>"
+    },
+    "why_vastu_shastra_matters_modern_homes": {
+      "title": "Why Vastu Shastra Matters in Modern Homes",
+      "excerpt": "Discover how ancient Vastu principles can enhance positive energy, prosperity, and harmony in your modern living spaces. Practical tips for home optimization.",
+      "content": "<p>Vastu Shastra, the ancient Indian science of architecture, offers timeless principles for creating harmonious living spaces. Even in modern homes, applying Vastu guidelines can significantly enhance positive energy, prosperity, and overall well-being.</p><h2>The Science Behind Vastu</h2><p>Vastu Shastra is based on the alignment of your home with the five elements—earth, water, fire, air, and space. The direction and placement of rooms, furniture, and objects influence the flow of cosmic energy, affecting your health, wealth, and relationships.</p><h2>Key Vastu Principles for Modern Homes</h2><p><strong>Main Entrance:</strong> The entrance should face north, east, or northeast to attract positive energy. Avoid south-facing entrances.</p><p><strong>Kitchen Placement:</strong> The kitchen should ideally be in the southeast corner, as this direction is governed by fire energy.</p><p><strong>Bedroom Direction:</strong> Master bedrooms are best in the southwest, while children's rooms should face east or west.</p><p><strong>Prayer Room:</strong> Place your prayer or meditation area in the northeast corner for spiritual peace and positivity.</p><h2>Simple Remedies for Existing Homes</h2><p>If your home doesn't follow ideal Vastu principles, don't worry. Simple remedies like using mirrors, crystals, or color schemes can balance the energy. Consulting with a Vastu expert like Pandit Gulabchand can help identify specific adjustments for your space.</p><h2>Benefits of Vastu Compliant Homes</h2><p>Homes aligned with Vastu principles experience improved health, better relationships, financial stability, and overall harmony. The positive energy flow creates a nurturing environment for all family members.</p>"
+    },
+    "top_5_common_astrology_myths_busted": {
+      "title": "Top 5 Common Astrology Myths Busted by Experts",
+      "excerpt": "Separate fact from fiction as we debunk the most common misconceptions about Vedic astrology and reveal the truth behind astrological predictions.",
+      "content": "<p>Astrology has been misunderstood and misrepresented for centuries. Let's debunk the most common myths and reveal the truth about this ancient science.</p><h2>Myth 1 Astrology Predicts Your Exact Future</h2><p><strong>Truth:</strong> Astrology doesn't predict fixed events but rather reveals potentialities and tendencies. Your birth chart shows probabilities and opportunities, but free will always plays a crucial role. An astrologer guides you toward making better decisions based on planetary influences.</p><h2>Myth 2 All Astrologers Are the Same</h2><p><strong>Truth:</strong> Just like any profession, expertise varies significantly. An experienced astrologer like Pandit Gulabchand, with 30+ years of practice, brings deep knowledge of Vedic principles, accurate chart calculations, and personalized interpretations that generic readings cannot match.</p><h2>Myth 3 Western and Vedic Astrology Are Identical</h2><p><strong>Truth:</strong> While both systems study planetary positions, Vedic astrology uses the sidereal zodiac (based on fixed stars) and places greater emphasis on karma, dasha systems, and remedies. The approaches and interpretations differ significantly.</p><h2>Myth 4 Astrology Is Just for Entertainment</h2><p><strong>Truth:</strong> Vedic astrology is a profound science with mathematical precision, planetary calculations, and centuries of documented wisdom. Millions of people worldwide rely on astrological guidance for major life decisions, timing important events, and understanding their life purpose.</p><h2>Myth 5 Bad Planetary Positions Mean Doom</h2><p><strong>Truth:</strong> Challenging planetary positions indicate areas requiring attention, not fixed negative outcomes. Effective remedies, including gemstones, mantras, rituals, and lifestyle adjustments, can mitigate negative influences and enhance positive ones.</p><h2>Understanding the Real Power of Astrology</h2><p>Astrology is a tool for self-awareness, timing, and guidance. When interpreted by an experienced astrologer, it provides valuable insights that empower you to navigate life's challenges and opportunities with greater clarity and confidence.</p>"
+    },
+    "understanding_planetary_doshas_remedies": {
+      "title": "Understanding Planetary Doshas and Their Remedies",
+      "excerpt": "Learn about Mangal Dosha, Kaal Sarp Dosha, and other planetary doshas. Discover effective remedies including mantras, gemstones, and rituals.",
+      "content": "<p>Planetary doshas are challenging configurations in your birth chart that can create obstacles in various life areas. Understanding these doshas and their remedies is crucial for navigating life's challenges effectively.</p><h2>What Are Planetary Doshas?</h2><p>Doshas occur when planets are placed in unfavorable positions or when specific planetary combinations create challenging influences. Common doshas include Mangal Dosha (Mars affliction), Kaal Sarp Dosha (serpent configuration), and Shani Dosha (Saturn affliction).</p><h2>Mangal Dosha (Mars Affliction)</h2><p>Mangal Dosha occurs when Mars is placed in the 1st, 4th, 7th, 8th, or 12th house. This can affect marriage compatibility and create relationship challenges.</p><p><strong>Remedies:</strong> Wearing coral gemstone, performing Mangal Shanti puja, chanting Mars mantras, and choosing a compatible partner can mitigate these effects.</p><h2>Kaal Sarp Dosha</h2><p>This dosha occurs when all planets are positioned between Rahu and Ketu, creating a serpent-like configuration. It can cause obstacles in career, relationships, and overall progress.</p><p><strong>Remedies:</strong> Kaal Sarp Shanti puja, wearing specific gemstones, performing charity, and following prescribed rituals can help neutralize this dosha.</p><h2>Shani Dosha (Saturn Affliction)</h2><p>When Saturn is unfavorably placed or aspects certain houses, it can create delays, obstacles, and hardships.</p><p><strong>Remedies:</strong> Wearing blue sapphire or amethyst, performing Shani Shanti puja, donating to the needy, and following Saturn-related remedies can help.</p><h2>General Remedies for Doshas</h2><p>Common remedies include wearing appropriate gemstones, performing specific pujas, chanting mantras, following dietary guidelines, practicing charity, and consulting with experienced astrologers for personalized solutions.</p><h2>Getting Professional Guidance</h2><p>Dosha analysis requires expert interpretation of your complete birth chart. Pandit Gulabchand provides detailed dosha analysis and recommends personalized remedies based on your unique planetary positions and life circumstances.</p>"
+    }
+  },
+  "reviews": {
+    "title": "Real Experiences Real Results",
+    "subtitle": "Real reviews from satisfied clients who found clarity and guidance"
+  },
+  "aboutPage": {
+    "title": "Guru Kripa Astrologer And Gemstones",
+    "subtitle": "Pandit Gulabchand - A Renowned Astrologer with 30+ Years of Experience in Vedic Astrology, Vastu Shastra, and Gemstone Consultancy",
+    "intro1": "With 30+ years of experience, Pandit Gulabchand is a dedicated and renowned astrologer with an unwavering passion for helping people find clarity, balance, and purpose through the ancient wisdom of Vedic astrology. His deep commitment to guiding individuals through life's challenges has established him as a trusted spiritual advisor and one of the most respected astrologers in the field.",
+    "intro2": "With extensive expertise in analyzing Kundli charts, Pandit Gulabchand is highly proficient in Astrology, Vastu Shastra, and Gemstone consultancy. Through years of dedicated practice, he has mastered the art of understanding and guiding individuals through life's most pressing questions, offering profound insights that illuminate paths forward and empower clients to make informed decisions about their future.",
+    "intro3": "His approach combines the timeless wisdom of ancient Indian astrology with practical, modern understanding. He believes in providing ethical guidance that empowers individuals to make informed decisions and navigate their life paths with confidence. Pandit Gulabchand's consultations are known for their accuracy, compassion, and practical applicability in today's fast-paced world.",
+    "yearsExperience": "Years Experience",
+    "happyClients": "Happy Clients",
+    "clientRating": "Client Rating",
+    "areasOfExpertise": "Areas of Expertise",
+    "vedicAstrology": "Vedic Astrology",
+    "vedicAstrologyDesc1": "Pandit Gulabchand specializes in comprehensive Vedic astrology services including detailed Kundli analysis, birth chart interpretation, planetary period (Dasha) predictions, and life path guidance. His expertise in reading and interpreting complex astrological charts has helped thousands of clients understand their destiny and make informed life decisions.",
+    "vedicAstrologyDesc2": "He provides accurate predictions for career, finance, relationships, health, and spiritual growth based on ancient Vedic principles combined with modern astrological techniques.",
+    "vastuShastra": "Vastu Shastra",
+    "vastuDesc1": "With extensive knowledge of Vastu Shastra, Pandit Gulabchand offers expert guidance for optimizing energy flow in homes and offices. He provides detailed Vastu analysis, identifies doshas, and suggests practical remedies to enhance prosperity, health, and harmony in living and working spaces.",
+    "vastuDesc2": "His Vastu consultations include property analysis, layout corrections, directional guidance, and personalized remedies to create positive energy environments that support success and well-being.",
+    "gemstoneConsultancy": "Gemstone Consultancy",
+    "gemstoneDesc1": "As a certified gemstone consultant, Pandit Gulabchand provides personalized gemstone recommendations based on individual birth charts. He analyzes planetary positions and suggests appropriate gemstones to enhance positive planetary influences and mitigate negative effects.",
+    "gemstoneDesc2": "His gemstone consultancy includes quality assessment, wearing instructions, metal recommendations, and guidance on proper gemstone care for maximum astrological benefits.",
+    "numerologyRemedies": "Numerology & Remedies",
+    "numerologyDesc1": "Pandit Gulabchand offers comprehensive numerology services including name analysis, life path number calculations, and lucky number guidance. He also provides personalized remedies including mantras, yantras, rituals, and spiritual practices tailored to individual needs.",
+    "numerologyDesc2": "His remedy suggestions are practical, ethical, and designed to help clients overcome challenges, enhance positive energy, and achieve their life goals through traditional Vedic methods.",
+    "ourServices": "Our Services",
+    "philosophyApproach": "Philosophy & Approach",
+    "ethicalPractical": "Ethical & Practical",
+    "ethicalDesc": "We provide honest, ethical guidance without making false promises or creating unnecessary fear. Our approach is practical and focused on empowering clients with actionable insights that can genuinely improve their lives.",
+    "traditionalWisdom": "Traditional Wisdom",
+    "traditionalDesc": "Rooted in ancient Vedic principles and traditional Indian astrology, our methods have been refined over thousands of years. We make this timeless wisdom accessible and applicable for modern life challenges.",
+    "personalizedCare": "Personalized Care",
+    "personalizedDesc": "Every consultation is tailored to your unique situation, birth chart, and specific needs. We take time to understand your concerns and provide personalized guidance that addresses your individual circumstances.",
+    "readyToDiscover": "Ready to Discover Your Path?",
+    "ctaSubtitle": "Experience the wisdom of 30+ years of astrological expertise. Book your consultation today and take the first step towards clarity, balance, and purpose in your life.",
+    "bookYourConsultation": "Book Your Consultation",
+    "viewAllServices": "View All Services"
+  },
+  "common": {
+    "readMore": "Read More",
+    "close": "Close",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "callNow": "Call Now",
+    "whatsapp": "WhatsApp",
+    "bookNow": "Book Now",
+    "benefits": "Benefits:",
+    "clearFilters": "Clear filters",
+    "contactViaWhatsApp": "Contact via WhatsApp",
+    "callUs": "Call us"
+  }
+}
